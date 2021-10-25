@@ -1,0 +1,9 @@
+* {background-color:transparent;}
+.contact {color:darkslateblue; text-align: right; font-weight: bold;font-style: "Times New Roman";font-size: 20px;}
+.header1 {color:blue}
+.header1bis{background-color:mediumvioletred; color:white;display:block;}
+.header1, .header1bis {text-align: center;font-style: "Times New Roman";font-size: 40px;}
+.header2 {text-align: center;color:mediumvioletred;font-size: 36px;}
+.header3 {font-size: 20px;text-align: center;text-decoration: yellowgreen;}
+.header1, .header3 {}
+.buttonindex {text-align: center;color: darkslateblue;font-weight: 800;font-size: 20px;}
